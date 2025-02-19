@@ -1,0 +1,12 @@
+token =""
+hg_kanal_id = 1234567890
+kurallar_kanal_id = 1234567890
+yeni_üye = 1234567890
+msg_log = 1234567890
+admin = 1234567890
+ban_kick_log = 1234567890
+url ="mongodb+srv://yukokoski08:xW8vORDVVfmNLRll@cluster0.hwock.mongodb.net/"
+modal_log = 1234567890
+kayitsiz_rol = 1234567890
+kayitsiz_roll = 1234567890
+guild = 1234567890
